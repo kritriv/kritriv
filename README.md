@@ -24,8 +24,8 @@
 
 
 <div style="display:flex;">
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kritriv&show_icons=true&locale=en" alt="kritriv" /></p>
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritriv&show_icons=true&locale=en&layout=compact" alt="kritriv" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kritriv&show_icons=true&locale=en" alt="kritriv"/></p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritriv&show_icons=true&locale=en&layout=compact" alt="kritriv"/></p>
 </div>
 
 
