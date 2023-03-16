@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **with other Designer & Developer**
 
-- 👨‍💻 All of my projects are available at [ Portfolio](https://kritriv.github.io/Profile-Vishal.Saraiwal/)
+- 👨‍💻 All of my projects are available at [ Portfolio](http://vishal-saraiwal.design/)
 
 - 📝 I regularly write articles on [Private]
 
