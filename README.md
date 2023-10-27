@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on Researching and working[ @BRSoftSol](http://brsoftsol.com/)
+- 🔭 I’m currently working on Researching and working[ @Naestinn](https://www.naestinn.com/)
 
 - 🌱 I’m currently learning **everything 🤣**
 
 - 👯 I’m looking to collaborate on **with other Designer & Developer**
 
-- 👨‍💻 All of my projects are available at [ Portfolio](http://vishal-saraiwal.design/)
+- 👨‍💻 All of my projects are available at [ Portfolio](https://vishal-saraiwal.design/)
 
 - 📝 I regularly write articles on [Private]
 
