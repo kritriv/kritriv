@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Saraiwal</h1>
+<h3 align="center">ᴍᴇɴᴛᴏʀ & ᴘʀᴏᴊᴇᴄᴛ ʟᴇᴀᴅ @ɴᴀᴇꜱᴛᴛᴜᴛᴏʀꜱ | ᴘʀᴏᴅᴜᴄᴛ ᴅᴇꜱɪɢɴᴇʀ & ᴅᴇᴠᴇʟᴏᴘᴇʀ | ɢꜱꜱᴏᴄ'23 | 🇪​​🇽​ ᴍᴇɴᴏᴛʀ @ʙʀ ꜱᴏꜰᴛꜱᴏʟ | ʜᴀᴄᴋᴀᴛʜᴏɴ - @ʜᴀᴄᴋᴠꜱɪᴛ 4.0 , @ʜᴀᴄᴋᴄʙꜱ 5.0 & ​🇲​​🇴​​🇷​​🇪​..</h3>
 <p align="center"> <img src="https://github.com/kritriv/kritriv/blob/main/vishal_saraiwal_github.png" alt="Vishal Saraiwal Github" /> </p>
-<h3 align="center">Programmer | UI/UX Designer | FrontEnd Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritriv&label=Profile%20views&color=0e75b6&style=flat" alt="kritriv" /> </p>
 
 
