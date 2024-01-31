@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Saraiwal</h1>
+<p align="center"> <img src="https://github.com/kritriv/kritriv/blob/main/vishal_saraiwal_github.png" alt="Vishal Saraiwal Github" /> </p>
 <h3 align="center">Programmer | UI/UX Designer | FrontEnd Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritriv&label=Profile%20views&color=0e75b6&style=flat" alt="kritriv" /> </p>
 
