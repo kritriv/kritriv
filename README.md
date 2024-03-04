@@ -13,9 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ Portfolio](https://vishal-saraiwal.design/)
 
-- 📝 I regularly write articles on [Private]
-
-- 💬 Ask me about **UI/UX Design & FrontEnd Technology**
+- 💬 Ask me about **UI/UX Design & Web Technology**
 
 - 📫 How to reach me **vishalsaraiwal68@gmail.com**
 
