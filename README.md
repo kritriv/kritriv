@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vishal Saraiwal</h1>
-<h3 align="center">ᴍᴇɴᴛᴏʀ & ᴘʀᴏᴊᴇᴄᴛ ʟᴇᴀᴅ @ɴᴀᴇꜱᴛᴛᴜᴛᴏʀꜱ | ᴘʀᴏᴅᴜᴄᴛ ᴅᴇꜱɪɢɴᴇʀ & ᴅᴇᴠᴇʟᴏᴘᴇʀ | ɢꜱꜱᴏᴄ'23 | 🇪​​🇽​ ᴍᴇɴᴏᴛʀ @ʙʀ ꜱᴏꜰᴛꜱᴏʟ | ʜᴀᴄᴋᴀᴛʜᴏɴ - @ʜᴀᴄᴋᴠꜱɪᴛ 4.0 , @ʜᴀᴄᴋᴄʙꜱ 5.0 & ​🇲​​🇴​​🇷​​🇪​..</h3>
+<h3 align="center">ᴍᴇɴᴛᴏʀ | ʀᴏᴅᴜᴄᴛ ᴅᴇꜱɪɢɴᴇʀ & ᴅᴇᴠᴇʟᴏᴘᴇʀ | ɢꜱꜱᴏᴄ'23 | 🇪​​🇽​ ᴍᴇɴᴏᴛʀ @ʙʀ ꜱᴏꜰᴛꜱᴏʟ | ʜᴀᴄᴋᴀᴛʜᴏɴ - @ʜᴀᴄᴋᴠꜱɪᴛ 4.0 , @ʜᴀᴄᴋᴄʙꜱ 5.0 & ​🇲​​🇴​​🇷​​🇪​..</h3>
 <p align="center"> <img src="https://github.com/kritriv/kritriv/blob/main/vishal_saraiwal_github.png" alt="Vishal Saraiwal Github" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritriv&label=Profile%20views&color=0e75b6&style=flat" alt="kritriv" /> </p>
 
 
 
-- 🔭 I’m currently working on Researching and working[ @Naestinn](https://www.naestinn.com/)
+- 🔭 I’m currently working on Researching and working on UX
 
 - 🌱 I’m currently learning **everything 🤣**
 
 - 👯 I’m looking to collaborate on **with other Designer & Developer**
 
-- 👨‍💻 All of my projects are available at [ Portfolio](https://vishal-saraiwal.design/)
+- 👨‍💻 All of my projects are available at [ Portfolio](https://vishalsaraiwal.in/)
 
 - 💬 Ask me about **UI/UX Design & Web Technology**
 
